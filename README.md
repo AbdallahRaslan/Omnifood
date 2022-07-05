@@ -2,7 +2,7 @@
 # This Responsive project is created while taking a (Build Responsive Real-World Websites with HTML5 and CSS3 by Jonas Schmedtmann [on Udmy]) course.
 
 # Desktop Preview
-![Desktop Preview for Omnifood project](img/app/app-screen-1.png)
+![Desktop Preview for Omnifood project](img/Screenshots/desktop/01Desktop.png)
 
 
 # Built with
