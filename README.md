@@ -4,6 +4,9 @@
 # Desktop Preview
 ![Desktop Preview for Omnifood project](img/Screenshots/desktop/01Desktop.png)
 
+# Mobile Preview
+![Desktop Preview for Omnifood project](img/Screenshots/mobile-and-tablets/02mobile.png)
+
 
 # Built with
 
